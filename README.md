@@ -1,4 +1,4 @@
-                                                                  Calculator using RayLib library and C#
+                                        Calculator using RayLib library and C#
 
 
                                                                   
