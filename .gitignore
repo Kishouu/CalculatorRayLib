@@ -1,0 +1,34 @@
+# Ignore build artifacts and temporary files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Ignore IDE configuration files
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.csproj.user
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific files
+.env
+
+# Ignore debug and log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.cache
+
+# Ignore Visual Studio settings
+*.vs
+
+# Ignore compiled Raylib libraries (if used)
+raylib.dll
